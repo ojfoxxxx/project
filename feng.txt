@@ -1,0 +1,2 @@
+Hello, this is Regina
+I tried with adding my text file to the project.
