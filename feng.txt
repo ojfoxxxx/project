@@ -1,2 +1,6 @@
-Hello, this is Regina
-I tried with adding my text file to the project.
+My name is Regina.
+I live in London.
+Third editting on 07/12 at 19:00. 
+Welcome to join groupwork.
+
+Edit by James 09/12/21
